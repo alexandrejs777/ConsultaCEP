@@ -1,0 +1,10 @@
+C:\Users\AlexandreJS\source\repos\ConsultarCEPs\ConsultarCEPs\obj\Debug\ConsultarCEPs.csproj.AssemblyReference.cache
+C:\Users\AlexandreJS\source\repos\ConsultarCEPs\ConsultarCEPs\obj\Debug\ConsultarCEPs.Form1.resources
+C:\Users\AlexandreJS\source\repos\ConsultarCEPs\ConsultarCEPs\obj\Debug\ConsultarCEPs.Properties.Resources.resources
+C:\Users\AlexandreJS\source\repos\ConsultarCEPs\ConsultarCEPs\obj\Debug\ConsultarCEPs.csproj.GenerateResource.cache
+C:\Users\AlexandreJS\source\repos\ConsultarCEPs\ConsultarCEPs\obj\Debug\ConsultarCEPs.csproj.CoreCompileInputs.cache
+C:\Users\AlexandreJS\source\repos\ConsultarCEPs\ConsultarCEPs\bin\Debug\ConsultarCEPs.exe.config
+C:\Users\AlexandreJS\source\repos\ConsultarCEPs\ConsultarCEPs\bin\Debug\ConsultarCEPs.exe
+C:\Users\AlexandreJS\source\repos\ConsultarCEPs\ConsultarCEPs\bin\Debug\ConsultarCEPs.pdb
+C:\Users\AlexandreJS\source\repos\ConsultarCEPs\ConsultarCEPs\obj\Debug\ConsultarCEPs.exe
+C:\Users\AlexandreJS\source\repos\ConsultarCEPs\ConsultarCEPs\obj\Debug\ConsultarCEPs.pdb
